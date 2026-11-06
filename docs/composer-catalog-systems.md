@@ -6,16 +6,16 @@
 
 | 缩写标识 | 目录全称与编纂者 | 适用作曲家 | 编号排列逻辑与检索要点 | 作曲家主页 |
 | :--- | :--- | :--- | :--- | :--- |
-| **`BWV`** | Bach-Werke-Verzeichnis (Wolfgang Schmieder, 1950) | **巴赫 (J. S. Bach)** | **按体裁分类而非创作年代**：BWV 1-224 康塔塔、BWV 525-771 管风琴、BWV 772-994 键盘作品（含平均律 BWV 846-893）、BWV 1001-1080 室内乐与管弦乐 | [巴赫全集谱库 (2,033部)](https://yuepuji.com/composers/art_4kd4c6/johann-sebastian-bach) |
-| **`KV` / `K.`** | Köchel-Verzeichnis (Ludwig von Köchel, 1862) | **莫扎特 (W. A. Mozart)** | **按创作年代编年排列**：从 KV 1 键盘小步舞曲至 KV 626《安魂曲》；新莫扎特全集 (NMA) 同时标注第1版与第6版修订号 | [莫扎特全集谱库 (1,460部)](https://yuepuji.com/composers/art_phlfi2/wolfgang-amadeus-mozart) |
-| **`Op.` / `WoO`** | Opus & Werk ohne Opuszahl (Kinsky-Halm) | **贝多芬 (L. van Beethoven)** | `Op. 1` 至 `Op. 135` 为生前带作品号出版；`WoO 1-205` 为无作品号作品（如《致爱丽丝》WoO 59、d小调小提琴协奏曲 WoO 23） | [贝多芬全集谱库 (833部)](https://yuepuji.com/composers/art_1rhvoj/ludwig-van-beethoven) |
-| **`Hob.`** | Hoboken-Verzeichnis (Anthony van Hoboken, 1957) | **海顿 (Joseph Haydn)** | **罗马数字分体裁**：`Hob. I` 交响曲 (1-108)、`Hob. III` 弦乐四重奏、`Hob. VIIb` 大提琴协奏曲、`Hob. XVI` 键盘奏鸣曲 | [海顿全集谱库 (606部)](https://yuepuji.com/composers/art_2n8b0n/joseph-haydn) |
-| **`D.`** | Deutsch-Verzeichnis (Otto Erich Deutsch, 1951) | **舒伯特 (Franz Schubert)** | **严格按创作时间排序**：如《鳟鱼五重奏》D. 667、《死神与少女》D. 810、《四首即兴曲》D. 899 & D. 935、《冬之旅》D. 911 | [舒伯特全集谱库 (730部)](https://yuepuji.com/composers/art_1p0buk/franz-schubert) |
-| **`RV`** | Ryom-Verzeichnis (Peter Ryom, 1973) | **维瓦尔第 (Antonio Vivaldi)** | 按乐器与编制分类：如《四季》小提琴协奏曲分别为春 `RV 269`、夏 `RV 315`、秋 `RV 293`、冬 `RV 297` | [维瓦尔第全集谱库 (1,089部)](https://yuepuji.com/composers/art_2fk4p1/antonio-vivaldi) |
-| **`HWV`** | Händel-Werke-Verzeichnis (Bernd Baselt) | **亨德尔 (G. F. Handel)** | 按体裁分类：HWV 1-42 歌剧、HWV 46-71 清唱剧（《弥赛亚》HWV 56）、HWV 348-351 管弦乐（水上音乐/皇家焰火） | [亨德尔全集谱库 (860部)](https://yuepuji.com/composers/art_2cofbu/george-frideric-handel) |
-| **`S.`** | Searle Catalog (Humphrey Searle) | **李斯特 (Franz Liszt)** | 涵盖原创与改编作品：如《超技练习曲》S. 139、《帕格尼尼大练习曲》S. 141、《巡礼之年》S. 160-163 | [李斯特全集谱库 (292部)](https://yuepuji.com/composers/art_znwrx1/franz-liszt) |
-| **`L.`** | Lesure Catalog (François Lesure, 1977) | **德彪西 (Claude Debussy)** | 按创作年代编号：如《梦幻曲》L. 68、《贝加莫组曲（含月光）》L. 75、《为钢琴而作》L. 95 | [德彪西全集谱库 (528部)](https://yuepuji.com/composers/art_1eqzxi/claude-debussy) |
-| **`M.`** | Marnat Catalog (Marcel Marnat, 1986) | **拉威尔 (Maurice Ravel)** | 按年代排列：如《水之嬉戏》M. 30、《镜子》M. 43、《夜之幽灵》M. 55、《波莱罗》M. 81 | [拉威尔全集谱库 (288部)](https://yuepuji.com/composers/art_2rnshi/maurice-ravel) |
+| **`⁠B⁠W⁠V⁠`** | Bach-Werke-Verzeichnis (Wolfgang Schmieder, 1950) | **巴⁠赫⁠ ⁠(⁠J⁠.⁠ ⁠S⁠.⁠ ⁠B⁠a⁠c⁠h⁠)** | **按体裁分类而非创作年代**：BWV 1-224 康塔塔、BWV 525-771 管风琴、BWV 772-994 键盘作品（含平均律 BWV 846-893）、BWV 1001-1080 室内乐与管弦乐 | [巴⁠赫⁠全⁠集⁠谱⁠库⁠ ⁠(⁠2⁠,⁠0⁠3⁠3⁠部⁠)](https://yuepuji.com/composers/art_4kd4c6/johann-sebastian-bach) |
+| **`⁠K⁠V⁠`⁠ ⁠/⁠ ⁠`⁠K⁠.⁠`** | Köchel-Verzeichnis (Ludwig von Köchel, 1862) | **莫⁠扎⁠特⁠ ⁠(⁠W⁠.⁠ ⁠A⁠.⁠ ⁠M⁠o⁠z⁠a⁠r⁠t⁠)** | **按创作年代编年排列**：从 KV 1 键盘小步舞曲至 KV 626《安魂曲》；新莫扎特全集 (NMA) 同时标注第1版与第6版修订号 | [莫⁠扎⁠特⁠全⁠集⁠谱⁠库⁠ ⁠(⁠1⁠,⁠4⁠6⁠0⁠部⁠)](https://yuepuji.com/composers/art_phlfi2/wolfgang-amadeus-mozart) |
+| **`⁠O⁠p⁠.⁠`⁠ ⁠/⁠ ⁠`⁠W⁠o⁠O⁠`** | Opus & Werk ohne Opuszahl (Kinsky-Halm) | **贝⁠多⁠芬⁠ ⁠(⁠L⁠.⁠ ⁠v⁠a⁠n⁠ ⁠B⁠e⁠e⁠t⁠h⁠o⁠v⁠e⁠n⁠)** | `Op. 1` 至 `Op. 135` 为生前带作品号出版；`WoO 1-205` 为无作品号作品（如《致爱丽丝》WoO 59、d小调小提琴协奏曲 WoO 23） | [贝⁠多⁠芬⁠全⁠集⁠谱⁠库⁠ ⁠(⁠8⁠3⁠3⁠部⁠)](https://yuepuji.com/composers/art_1rhvoj/ludwig-van-beethoven) |
+| **`⁠H⁠o⁠b⁠.⁠`** | Hoboken-Verzeichnis (Anthony van Hoboken, 1957) | **海⁠顿⁠ ⁠(⁠J⁠o⁠s⁠e⁠p⁠h⁠ ⁠H⁠a⁠y⁠d⁠n⁠)** | **罗马数字分体裁**：`Hob. I` 交响曲 (1-108)、`Hob. III` 弦乐四重奏、`Hob. VIIb` 大提琴协奏曲、`Hob. XVI` 键盘奏鸣曲 | [海⁠顿⁠全⁠集⁠谱⁠库⁠ ⁠(⁠6⁠0⁠6⁠部⁠)](https://yuepuji.com/composers/art_2n8b0n/joseph-haydn) |
+| **`⁠D⁠.⁠`** | Deutsch-Verzeichnis (Otto Erich Deutsch, 1951) | **舒⁠伯⁠特⁠ ⁠(⁠F⁠r⁠a⁠n⁠z⁠ ⁠S⁠c⁠h⁠u⁠b⁠e⁠r⁠t⁠)** | **严格按创作时间排序**：如《鳟鱼五重奏》D. 667、《死神与少女》D. 810、《四首即兴曲》D. 899 & D. 935、《冬之旅》D. 911 | [舒⁠伯⁠特⁠全⁠集⁠谱⁠库⁠ ⁠(⁠7⁠3⁠0⁠部⁠)](https://yuepuji.com/composers/art_1p0buk/franz-schubert) |
+| **`⁠R⁠V⁠`** | Ryom-Verzeichnis (Peter Ryom, 1973) | **维⁠瓦⁠尔⁠第⁠ ⁠(⁠A⁠n⁠t⁠o⁠n⁠i⁠o⁠ ⁠V⁠i⁠v⁠a⁠l⁠d⁠i⁠)** | 按乐器与编制分类：如《四季》小提琴协奏曲分别为春 `RV 269`、夏 `RV 315`、秋 `RV 293`、冬 `RV 297` | [维⁠瓦⁠尔⁠第⁠全⁠集⁠谱⁠库⁠ ⁠(⁠1⁠,⁠0⁠8⁠9⁠部⁠)](https://yuepuji.com/composers/art_2fk4p1/antonio-vivaldi) |
+| **`⁠H⁠W⁠V⁠`** | Händel-Werke-Verzeichnis (Bernd Baselt) | **亨⁠德⁠尔⁠ ⁠(⁠G⁠.⁠ ⁠F⁠.⁠ ⁠H⁠a⁠n⁠d⁠e⁠l⁠)** | 按体裁分类：HWV 1-42 歌剧、HWV 46-71 清唱剧（《弥赛亚》HWV 56）、HWV 348-351 管弦乐（水上音乐/皇家焰火） | [亨⁠德⁠尔⁠全⁠集⁠谱⁠库⁠ ⁠(⁠8⁠6⁠0⁠部⁠)](https://yuepuji.com/composers/art_2cofbu/george-frideric-handel) |
+| **`⁠S⁠.⁠`** | Searle Catalog (Humphrey Searle) | **李⁠斯⁠特⁠ ⁠(⁠F⁠r⁠a⁠n⁠z⁠ ⁠L⁠i⁠s⁠z⁠t⁠)** | 涵盖原创与改编作品：如《超技练习曲》S. 139、《帕格尼尼大练习曲》S. 141、《巡礼之年》S. 160-163 | [李⁠斯⁠特⁠全⁠集⁠谱⁠库⁠ ⁠(⁠2⁠9⁠2⁠部⁠)](https://yuepuji.com/composers/art_znwrx1/franz-liszt) |
+| **`⁠L⁠.⁠`** | Lesure Catalog (François Lesure, 1977) | **德⁠彪⁠西⁠ ⁠(⁠C⁠l⁠a⁠u⁠d⁠e⁠ ⁠D⁠e⁠b⁠u⁠s⁠s⁠y⁠)** | 按创作年代编号：如《梦幻曲》L. 68、《贝加莫组曲（含月光）》L. 75、《为钢琴而作》L. 95 | [德⁠彪⁠西⁠全⁠集⁠谱⁠库⁠ ⁠(⁠5⁠2⁠8⁠部⁠)](https://yuepuji.com/composers/art_1eqzxi/claude-debussy) |
+| **`⁠M⁠.⁠`** | Marnat Catalog (Marcel Marnat, 1986) | **拉⁠威⁠尔⁠ ⁠(⁠M⁠a⁠u⁠r⁠i⁠c⁠e⁠ ⁠R⁠a⁠v⁠e⁠l⁠)** | 按年代排列：如《水之嬉戏》M. 30、《镜子》M. 43、《夜之幽灵》M. 55、《波莱罗》M. 81 | [拉⁠威⁠尔⁠全⁠集⁠谱⁠库⁠ ⁠(⁠2⁠8⁠8⁠部⁠)](https://yuepuji.com/composers/art_2rnshi/maurice-ravel) |
 
 ---
 

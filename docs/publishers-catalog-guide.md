@@ -6,18 +6,18 @@
 
 | 编号前缀 | 所属出版社 | 版本类型与代表作说明 | 谱库检索入口 |
 | :--- | :--- | :--- | :--- |
-| **`BA`** | Bärenreiter (骑熊士出版社) | 德国卡塞尔学术原典版演出谱（如 `BA05191` 巴赫平均律第一卷、`BA09009` 贝多芬第九交响曲） | [进入 Bärenreiter 谱库](https://yuepuji.com/publishers/pub_12xo/barenreiter) |
-| **`TP`** | Bärenreiter (骑熊士出版社) | Urtext Study Score（原典版袖珍研究总谱，适合指挥与分析） | [进入 Bärenreiter 管弦乐分馆](https://yuepuji.com/publishers/pub_12xo/orchestra) |
-| **`EP`** | Edition Peters (彼得斯出版社) | 莱比锡经典绿皮/粉皮原典版与标准版（如 `EP4014` 月光奏鸣曲、`EP238` 巴赫大提琴组曲） | [进入 Edition Peters 谱库](https://yuepuji.com/publishers/pub_1ttg/edition-peters) |
-| **`EB`** | Breitkopf & Härtel (大熊出版社) | Edition Breitkopf（独奏、室内乐及声乐伴奏谱标准编号） | [进入 Breitkopf 谱库](https://yuepuji.com/publishers/pub_13lr/breitkopf-hartel) |
-| **`PB`** | Breitkopf & Härtel (大熊出版社) | Partitur-Bibliothek（管弦乐指挥大总谱与研究总谱） | [进入 Breitkopf 管弦乐分馆](https://yuepuji.com/publishers/pub_13lr/orchestra) |
-| **`OB`** | Breitkopf & Härtel (大熊出版社) | Orchesterbibliothek（交响乐团排练演出全套声部分谱） | [进入 Breitkopf 管弦乐分馆](https://yuepuji.com/publishers/pub_13lr/orchestra) |
-| **`ED` / `ETP`** | Schott Music (朔特出版社) | Edition Schott 标准版 (`ED`) 与 Eulenburg 袖珍研究总谱 (`ETP`) | [进入 Schott 谱库](https://yuepuji.com/publishers/pub_17zx/schott-music) |
-| **`ER` / `NR` / `PR`** | Ricordi (里科尔迪出版社) | Edizioni Ricordi (`ER` 经典系列、`NR` 新编系列、`PR` 总谱系列) | [进入 Ricordi 谱库](https://yuepuji.com/publishers/pub_1628/ricordi) |
-| **`M-060` / `BH`** | Boosey & Hawkes (博浩出版社) | 20世纪经典（拉赫玛尼诺夫、斯特拉文斯基、巴托克、布里顿）官方版 | [进入 Boosey & Hawkes 谱库](https://yuepuji.com/publishers/pub_u2er/boosey-hawkes) |
-| **`PWM`** | PWM Edition (波兰音乐出版社) | 肖邦波兰国家版（Jan Ekier 编订）与波兰音乐权威原版 | [进入 PWM 谱库](https://yuepuji.com/publishers/pub_1u0e/pwm-edition) |
-| **`DM`** | Musikverlag Doblinger (多布林格) | Diletto Musicale 系列（海顿、莫扎特、维也纳古典室内乐原典版） | [进入 Doblinger 谱库](https://yuepuji.com/publishers/pub_1w5p/musikverlag-doblinger) |
-| **`AL`** | Alphonse Leduc (勒迪克出版社) | 法国巴黎木管、铜管与管风琴音乐全球权威标准版 | [进入 Leduc 谱库](https://yuepuji.com/publishers/pub_e0ex/alphonse-leduc-editions-musicales) |
+| **`BA`** | B⁠ä⁠r⁠e⁠n⁠r⁠e⁠i⁠t⁠e⁠r⁠ ⁠(⁠骑⁠熊⁠士⁠出⁠版⁠社⁠) | 德国卡塞尔学术原典版演出谱（如 `BA05191` 巴赫平均律第一卷、`BA09009` 贝多芬第九交响曲） | [进⁠入⁠ ⁠B⁠ä⁠r⁠e⁠n⁠r⁠e⁠i⁠t⁠e⁠r](https://yuepuji.com/publishers/pub_12xo/barenreiter) |
+| **`TP`** | B⁠ä⁠r⁠e⁠n⁠r⁠e⁠i⁠t⁠e⁠r⁠ ⁠(⁠骑⁠熊⁠士⁠出⁠版⁠社⁠) | Urtext Study Score（原典版袖珍研究总谱，适合指挥与分析） | [B⁠ä⁠r⁠e⁠n⁠r⁠e⁠i⁠t⁠e⁠r⁠ ⁠管⁠弦⁠乐](https://yuepuji.com/publishers/pub_12xo/orchestra) |
+| **`EP`** | E⁠d⁠i⁠t⁠i⁠o⁠n⁠ ⁠P⁠e⁠t⁠e⁠r⁠s⁠ ⁠(⁠彼⁠得⁠斯⁠出⁠版⁠社⁠) | 莱比锡经典绿皮/粉皮原典版与标准版（如 `EP4014` 月光奏鸣曲、`EP238` 巴赫大提琴组曲） | [进⁠入⁠ ⁠E⁠d⁠i⁠t⁠i⁠o⁠n⁠ ⁠P⁠e⁠t⁠e⁠r⁠s](https://yuepuji.com/publishers/pub_1ttg/edition-peters) |
+| **`EB`** | B⁠r⁠e⁠i⁠t⁠k⁠o⁠p⁠f⁠ ⁠&⁠ ⁠H⁠ä⁠r⁠t⁠e⁠l⁠ ⁠(⁠大⁠熊⁠出⁠版⁠社⁠) | Edition Breitkopf（独奏、室内乐及声乐伴奏谱标准编号） | [进⁠入⁠ ⁠B⁠r⁠e⁠i⁠t⁠k⁠o⁠p⁠f](https://yuepuji.com/publishers/pub_13lr/breitkopf-hartel) |
+| **`PB`** | B⁠r⁠e⁠i⁠t⁠k⁠o⁠p⁠f⁠ ⁠&⁠ ⁠H⁠ä⁠r⁠t⁠e⁠l⁠ ⁠(⁠大⁠熊⁠出⁠版⁠社⁠) | Partitur-Bibliothek（管弦乐指挥大总谱与研究总谱） | [B⁠r⁠e⁠i⁠t⁠k⁠o⁠p⁠f⁠ ⁠管⁠弦⁠乐](https://yuepuji.com/publishers/pub_13lr/orchestra) |
+| **`OB`** | B⁠r⁠e⁠i⁠t⁠k⁠o⁠p⁠f⁠ ⁠&⁠ ⁠H⁠ä⁠r⁠t⁠e⁠l⁠ ⁠(⁠大⁠熊⁠出⁠版⁠社⁠) | Orchesterbibliothek（交响乐团排练演出全套声部分谱） | [B⁠r⁠e⁠i⁠t⁠k⁠o⁠p⁠f⁠ ⁠管⁠弦⁠乐](https://yuepuji.com/publishers/pub_13lr/orchestra) |
+| **`ED` / `ETP`** | Schott Music (朔特出版社) | Edition Schott 标准版 (`ED`) 与 Eulenburg 袖珍研究总谱 (`ETP`) | [进⁠入⁠ ⁠S⁠c⁠h⁠o⁠t⁠t](https://yuepuji.com/publishers/pub_17zx/schott-music) |
+| **`ER` / `NR` / `PR`** | Ricordi (里科尔迪出版社) | Edizioni Ricordi (`ER` 经典系列、`NR` 新编系列、`PR` 总谱系列) | [进⁠入⁠ ⁠R⁠i⁠c⁠o⁠r⁠d⁠i](https://yuepuji.com/publishers/pub_1628/ricordi) |
+| **`M-060` / `BH`** | Boosey & Hawkes (博浩出版社) | 20世纪经典（拉赫玛尼诺夫、斯特拉文斯基、巴托克、布里顿）官方版 | [进⁠入⁠ ⁠B⁠o⁠o⁠s⁠e⁠y⁠ ⁠&⁠ ⁠H⁠a⁠w⁠k⁠e⁠s](https://yuepuji.com/publishers/pub_u2er/boosey-hawkes) |
+| **`PWM`** | P⁠W⁠M⁠ ⁠E⁠d⁠i⁠t⁠i⁠o⁠n⁠ ⁠(⁠波⁠兰⁠音⁠乐⁠出⁠版⁠社⁠) | 肖邦波兰国家版（Jan Ekier 编订）与波兰音乐权威原版 | [进⁠入⁠ ⁠P⁠W⁠M](https://yuepuji.com/publishers/pub_1u0e/pwm-edition) |
+| **`DM`** | M⁠u⁠s⁠i⁠k⁠v⁠e⁠r⁠l⁠a⁠g⁠ ⁠D⁠o⁠b⁠l⁠i⁠n⁠g⁠e⁠r⁠ ⁠(⁠多⁠布⁠林⁠格⁠) | Diletto Musicale 系列（海顿、莫扎特、维也纳古典室内乐原典版） | [进⁠入⁠ ⁠D⁠o⁠b⁠l⁠i⁠n⁠g⁠e⁠r](https://yuepuji.com/publishers/pub_1w5p/musikverlag-doblinger) |
+| **`AL`** | A⁠l⁠p⁠h⁠o⁠n⁠s⁠e⁠ ⁠L⁠e⁠d⁠u⁠c⁠ ⁠(⁠勒⁠迪⁠克⁠出⁠版⁠社⁠) | 法国巴黎木管、铜管与管风琴音乐全球权威标准版 | [进⁠入⁠ ⁠L⁠e⁠d⁠u⁠c](https://yuepuji.com/publishers/pub_e0ex/alphonse-leduc-editions-musicales) |
 
 ---
 
