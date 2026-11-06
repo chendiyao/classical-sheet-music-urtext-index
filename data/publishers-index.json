@@ -1,0 +1,602 @@
+[
+  {
+    "id": "pub_1zti",
+    "name": "Faber Music",
+    "name_zh": "费伯音乐出版社",
+    "score_count": 13280,
+    "sample_catalogs": [
+      "43748",
+      "40550",
+      "6875",
+      "33658",
+      "9632"
+    ],
+    "slug": "faber-music",
+    "url": "https://yuepuji.com/publishers/pub_1zti/faber-music"
+  },
+  {
+    "id": "pub_17zx",
+    "name": "Schott Music",
+    "name_zh": "朔特音乐出版社",
+    "score_count": 10621,
+    "sample_catalogs": [
+      "Q564658",
+      "Q43011",
+      "Q23692",
+      "Q43441",
+      "Q7575"
+    ],
+    "slug": "schott-music",
+    "url": "https://yuepuji.com/publishers/pub_17zx/schott-music"
+  },
+  {
+    "id": "pub_1628",
+    "name": "Ricordi",
+    "name_zh": "里科尔迪出版社",
+    "score_count": 7258,
+    "sample_catalogs": [
+      "ER00232500",
+      "NR13852400",
+      "ER00152200",
+      "NR14017300",
+      "ER00302800"
+    ],
+    "slug": "ricordi",
+    "url": "https://yuepuji.com/publishers/pub_1628/ricordi"
+  },
+  {
+    "id": "pub_1gp5",
+    "name": "Novello & Co",
+    "name_zh": "",
+    "score_count": 6475,
+    "sample_catalogs": [
+      "NOV072536",
+      "NOV890189",
+      "NOV951588",
+      "NOV262400",
+      "NOV100204"
+    ],
+    "slug": "novello-co",
+    "url": "https://yuepuji.com/publishers/pub_1gp5/novello-co"
+  },
+  {
+    "id": "pub_u2er",
+    "name": "Boosey & Hawkes",
+    "name_zh": "博浩出版社",
+    "score_count": 5227,
+    "sample_catalogs": [
+      "M-060-12297-2",
+      "M-060-83653-4",
+      "M-060-11158-7",
+      "Z121760",
+      "Z204681"
+    ],
+    "slug": "boosey-hawkes",
+    "url": "https://yuepuji.com/publishers/pub_u2er/boosey-hawkes"
+  },
+  {
+    "id": "pub_43ic",
+    "name": "Chester Music",
+    "name_zh": "",
+    "score_count": 4281,
+    "sample_catalogs": [
+      "CH55505",
+      "Z204833",
+      "CH61598",
+      "CH08855",
+      "Z151504"
+    ],
+    "slug": "chester-music",
+    "url": "https://yuepuji.com/publishers/pub_43ic/chester-music"
+  },
+  {
+    "id": "pub_sn22",
+    "name": "Oxford University Press",
+    "name_zh": "牛津大学出版社",
+    "score_count": 4131,
+    "sample_catalogs": [
+      "9780193544765",
+      "9780193702677",
+      "9780193554801",
+      "9780193466005",
+      "9780193707658"
+    ],
+    "slug": "oxford-university-press",
+    "url": "https://yuepuji.com/publishers/pub_sn22/oxford-university-press"
+  },
+  {
+    "id": "pub_13lr",
+    "name": "Breitkopf & Härtel",
+    "name_zh": "大熊音乐出版社",
+    "score_count": 3564,
+    "sample_catalogs": [
+      "9790004160275",
+      "9790004189351",
+      "9790004207185",
+      "9790004182772",
+      "9790004168639"
+    ],
+    "slug": "breitkopf-hartel",
+    "url": "https://yuepuji.com/publishers/pub_13lr/breitkopf-hartel"
+  },
+  {
+    "id": "pub_q7mj",
+    "name": "Edition Wilhelm Hansen",
+    "name_zh": "威廉·汉森出版社",
+    "score_count": 3326,
+    "sample_catalogs": [
+      "WH32803",
+      "KP00728",
+      "WH30862",
+      "WH32256",
+      "MF539"
+    ],
+    "slug": "edition-wilhelm-hansen",
+    "url": "https://yuepuji.com/publishers/pub_q7mj/edition-wilhelm-hansen"
+  },
+  {
+    "id": "pub_121v",
+    "name": "Cimarron Music Press",
+    "name_zh": "",
+    "score_count": 3308,
+    "sample_catalogs": [
+      "CM2612",
+      "CM1553",
+      "CM0803",
+      "CM2476",
+      "CM0612"
+    ],
+    "slug": "cimarron-music-press",
+    "url": "https://yuepuji.com/publishers/pub_121v/cimarron-music-press"
+  },
+  {
+    "id": "pub_u2p4",
+    "name": "Durand",
+    "name_zh": "杜兰德出版社",
+    "score_count": 3153,
+    "sample_catalogs": [
+      "DF00517300",
+      "DF15684.1",
+      "DC01110900",
+      "DF01066200",
+      "DD00930300"
+    ],
+    "slug": "durand",
+    "url": "https://yuepuji.com/publishers/pub_u2p4/durand"
+  },
+  {
+    "id": "pub_1ttg",
+    "name": "Edition Peters",
+    "name_zh": "彼得斯出版社",
+    "score_count": 2818,
+    "sample_catalogs": [
+      "EP238",
+      "EP4014",
+      "19919",
+      "19954",
+      "19887"
+    ],
+    "slug": "edition-peters",
+    "url": "https://yuepuji.com/publishers/pub_1ttg/edition-peters"
+  },
+  {
+    "id": "pub_e0ex",
+    "name": "Alphonse Leduc Editions Musicales",
+    "name_zh": "勒迪克出版社",
+    "score_count": 2773,
+    "sample_catalogs": [
+      "HA009563",
+      "AL22003",
+      "AL27678",
+      "AL25003",
+      "AL20620"
+    ],
+    "slug": "alphonse-leduc-editions-musicales",
+    "url": "https://yuepuji.com/publishers/pub_e0ex/alphonse-leduc-editions-musicales"
+  },
+  {
+    "id": "pub_1w5p",
+    "name": "Musikverlag Doblinger",
+    "name_zh": "多布林格出版社",
+    "score_count": 2641,
+    "sample_catalogs": [
+      "01-00257",
+      "01-00234",
+      "DM-01321",
+      "01-00618",
+      "GKM-00124"
+    ],
+    "slug": "musikverlag-doblinger",
+    "url": "https://yuepuji.com/publishers/pub_1w5p/musikverlag-doblinger"
+  },
+  {
+    "id": "pub_1nlb",
+    "name": "Salabert",
+    "name_zh": "萨拉贝尔出版社",
+    "score_count": 2385,
+    "sample_catalogs": [
+      "SLB00159300",
+      "SLB00571000",
+      "Z105481",
+      "SLB00583600",
+      "Z108622"
+    ],
+    "slug": "salabert",
+    "url": "https://yuepuji.com/publishers/pub_1nlb/salabert"
+  },
+  {
+    "id": "pub_5faz",
+    "name": "Soundnotation",
+    "name_zh": "",
+    "score_count": 2112,
+    "sample_catalogs": [
+      "4251133763508",
+      "4251133764666",
+      "4251133772661",
+      "4251133755534",
+      "4251133759983"
+    ],
+    "slug": "soundnotation",
+    "url": "https://yuepuji.com/publishers/pub_5faz/soundnotation"
+  },
+  {
+    "id": "pub_12xo",
+    "name": "Bärenreiter",
+    "name_zh": "骑熊士出版社",
+    "score_count": 1858,
+    "sample_catalogs": [
+      "BA08403",
+      "BA09103",
+      "BA04856",
+      "BA05241",
+      "BA08758"
+    ],
+    "slug": "barenreiter",
+    "url": "https://yuepuji.com/publishers/pub_12xo/barenreiter"
+  },
+  {
+    "id": "pub_1ngk",
+    "name": "AvA Musical Editions",
+    "name_zh": "",
+    "score_count": 1538,
+    "sample_catalogs": [
+      "ava181759",
+      "ava161602",
+      "ava110611",
+      "ava131081",
+      "ava110772"
+    ],
+    "slug": "ava-musical-editions",
+    "url": "https://yuepuji.com/publishers/pub_1ngk/ava-musical-editions"
+  },
+  {
+    "id": "pub_1rny",
+    "name": "Ricordi Berlin",
+    "name_zh": "里科尔迪（柏林）",
+    "score_count": 1528,
+    "sample_catalogs": [
+      "SY 4169",
+      "SY 4712",
+      "SY 3861",
+      "SY 5708",
+      "SY 4132"
+    ],
+    "slug": "ricordi-berlin",
+    "url": "https://yuepuji.com/publishers/pub_1rny/ricordi-berlin"
+  },
+  {
+    "id": "pub_d0c2",
+    "name": "Melos Ediciones Musicales",
+    "name_zh": "",
+    "score_count": 1501,
+    "sample_catalogs": [
+      "ERA229",
+      "ERA604",
+      "ERA2540",
+      "ERA1634",
+      "MEL31017"
+    ],
+    "slug": "melos-ediciones-musicales",
+    "url": "https://yuepuji.com/publishers/pub_d0c2/melos-ediciones-musicales"
+  },
+  {
+    "id": "pub_1y9j",
+    "name": "Sikorski",
+    "name_zh": "",
+    "score_count": 1357,
+    "sample_catalogs": [
+      "9790003034324",
+      "9790003032856",
+      "9790003016276",
+      "9790003001869",
+      "9790003010908"
+    ],
+    "slug": "sikorski",
+    "url": "https://yuepuji.com/publishers/pub_1y9j/sikorski"
+  },
+  {
+    "id": "pub_m36x",
+    "name": "Max Eschig",
+    "name_zh": "埃希格出版社",
+    "score_count": 1333,
+    "sample_catalogs": [
+      "ME00673200",
+      "ME00417800",
+      "ME00819600",
+      "ED00103600",
+      "ME00542300"
+    ],
+    "slug": "max-eschig",
+    "url": "https://yuepuji.com/publishers/pub_m36x/max-eschig"
+  },
+  {
+    "id": "pub_1xs1",
+    "name": "Editions Henry Lemoine",
+    "name_zh": "莱蒙出版社",
+    "score_count": 1296,
+    "sample_catalogs": [
+      "P927-01",
+      "26340",
+      "HC11-02",
+      "UL122",
+      "P1114"
+    ],
+    "slug": "editions-henry-lemoine",
+    "url": "https://yuepuji.com/publishers/pub_1xs1/editions-henry-lemoine"
+  },
+  {
+    "id": "pub_1u0e",
+    "name": "PWM Edition",
+    "name_zh": "波兰音乐出版社",
+    "score_count": 1248,
+    "sample_catalogs": [
+      "PWM 13 175",
+      "PWM 13 172",
+      "10427",
+      "5573",
+      "Z146937"
+    ],
+    "slug": "pwm-edition",
+    "url": "https://yuepuji.com/publishers/pub_1u0e/pwm-edition"
+  },
+  {
+    "id": "pub_162l",
+    "name": "Bote & Bock",
+    "name_zh": "",
+    "score_count": 1225,
+    "sample_catalogs": [
+      "M-2025-3410-6",
+      "M-2025-1992-9",
+      "M-2025-3361-1",
+      "M-2025-3357-4",
+      "M-2025-3337-6"
+    ],
+    "slug": "bote-bock",
+    "url": "https://yuepuji.com/publishers/pub_162l/bote-bock"
+  },
+  {
+    "id": "pub_1pfo",
+    "name": "INSTITUTO MUSICA BRASILIS",
+    "name_zh": "",
+    "score_count": 1129,
+    "sample_catalogs": [
+      "23750",
+      "25131",
+      "5729",
+      "32321",
+      "32212"
+    ],
+    "slug": "instituto-musica-brasilis",
+    "url": "https://yuepuji.com/publishers/pub_1pfo/instituto-musica-brasilis"
+  },
+  {
+    "id": "pub_7rof",
+    "name": "Donemus",
+    "name_zh": "",
+    "score_count": 1039,
+    "sample_catalogs": [
+      "00012",
+      "11879",
+      "06430",
+      "06378",
+      "00912"
+    ],
+    "slug": "donemus",
+    "url": "https://yuepuji.com/publishers/pub_7rof/donemus"
+  },
+  {
+    "id": "pub_1syo",
+    "name": "Union Musical Ediciones",
+    "name_zh": "",
+    "score_count": 961,
+    "sample_catalogs": [
+      "UME21429",
+      "UMG20147",
+      "UMV19669",
+      "UMG15648",
+      "UME28424"
+    ],
+    "slug": "union-musical-ediciones",
+    "url": "https://yuepuji.com/publishers/pub_1syo/union-musical-ediciones"
+  },
+  {
+    "id": "pub_10mp",
+    "name": "Schott Music London",
+    "name_zh": "朔特音乐（伦敦）",
+    "score_count": 916,
+    "sample_catalogs": [
+      "Q46004",
+      "Q23838",
+      "Q20004",
+      "Q21639",
+      "Q24263"
+    ],
+    "slug": "schott-music-london",
+    "url": "https://yuepuji.com/publishers/pub_10mp/schott-music-london"
+  },
+  {
+    "id": "pub_fmnh",
+    "name": "Eulenburg",
+    "name_zh": "奥伊伦堡出版社",
+    "score_count": 822,
+    "sample_catalogs": [
+      "Q4436",
+      "Q53495",
+      "Q12468",
+      "Q4385",
+      "Q4216"
+    ],
+    "slug": "eulenburg",
+    "url": "https://yuepuji.com/publishers/pub_fmnh/eulenburg"
+  },
+  {
+    "id": "pub_v13d",
+    "name": "Simrock",
+    "name_zh": "西姆洛克出版社",
+    "score_count": 784,
+    "sample_catalogs": [
+      "M-2211-1015-2",
+      "Z133122",
+      "M-2211-0292-8",
+      "M-2211-2084-7",
+      "Z129334"
+    ],
+    "slug": "simrock",
+    "url": "https://yuepuji.com/publishers/pub_v13d/simrock"
+  },
+  {
+    "id": "pub_17hf",
+    "name": "Composers Edition",
+    "name_zh": "",
+    "score_count": 756,
+    "sample_catalogs": [
+      "ce-rk1ps1",
+      "ce-pnm1ss1",
+      "ce-mb2cms1",
+      "ce-pc1s1",
+      "ce-ed1v2"
+    ],
+    "slug": "composers-edition",
+    "url": "https://yuepuji.com/publishers/pub_17hf/composers-edition"
+  },
+  {
+    "id": "pub_1rm2",
+    "name": "Fennica Gehrman",
+    "name_zh": "",
+    "score_count": 738,
+    "sample_catalogs": [
+      "Z148127",
+      " 979-0-55011-477-7",
+      "979-0-55011-567-5",
+      "979-0-55011-651-1",
+      "9790550095601"
+    ],
+    "slug": "fennica-gehrman",
+    "url": "https://yuepuji.com/publishers/pub_1rm2/fennica-gehrman"
+  },
+  {
+    "id": "pub_ytxf",
+    "name": "Éditions À Cœur Joie",
+    "name_zh": "",
+    "score_count": 695,
+    "sample_catalogs": [
+      "A110410048",
+      "A112100786",
+      "A112100714",
+      "A111100788",
+      "A112100901"
+    ],
+    "slug": "editions-a-cœur-joie",
+    "url": "https://yuepuji.com/publishers/pub_ytxf/editions-a-cœur-joie"
+  },
+  {
+    "id": "pub_7tou",
+    "name": "Gehrmans Musikförlag",
+    "name_zh": "",
+    "score_count": 663,
+    "sample_catalogs": [
+      "6747",
+      "5932",
+      "11389",
+      "13128",
+      "13364"
+    ],
+    "slug": "gehrmans-musikforlag",
+    "url": "https://yuepuji.com/publishers/pub_7tou/gehrmans-musikforlag"
+  },
+  {
+    "id": "pub_zi6c",
+    "name": "F-Kustannus (E-Partners)",
+    "name_zh": "",
+    "score_count": 655,
+    "sample_catalogs": [
+      "18033",
+      "27014",
+      "22043",
+      "21275",
+      "23804"
+    ],
+    "slug": "f-kustannus-e-partners",
+    "url": "https://yuepuji.com/publishers/pub_zi6c/f-kustannus-e-partners"
+  },
+  {
+    "id": "pub_4alr",
+    "name": "Editions Choudens",
+    "name_zh": "",
+    "score_count": 652,
+    "sample_catalogs": [
+      "ACF021192",
+      "Z169089",
+      "ACF100210",
+      "Z169254",
+      "ACF020997"
+    ],
+    "slug": "editions-choudens",
+    "url": "https://yuepuji.com/publishers/pub_4alr/editions-choudens"
+  },
+  {
+    "id": "pub_o6j3",
+    "name": "BrassWorks4",
+    "name_zh": "",
+    "score_count": 605,
+    "sample_catalogs": [
+      "BW0229",
+      "BW0323",
+      "BW0667",
+      "BW0060",
+      "BW0429"
+    ],
+    "slug": "brassworks4",
+    "url": "https://yuepuji.com/publishers/pub_o6j3/brassworks4"
+  },
+  {
+    "id": "pub_s3w0",
+    "name": "Sugarmusic S.p.A. – Edizioni Suvini Zerboni",
+    "name_zh": "",
+    "score_count": 598,
+    "sample_catalogs": [
+      "9924",
+      "15928",
+      "8155",
+      "15194",
+      "6053"
+    ],
+    "slug": "sugarmusic-s-p-a-edizioni-suvini-zerboni",
+    "url": "https://yuepuji.com/publishers/pub_s3w0/sugarmusic-s-p-a-edizioni-suvini-zerboni"
+  },
+  {
+    "id": "pub_1qq5",
+    "name": "Hendon Music",
+    "name_zh": "亨登音乐（博浩）",
+    "score_count": 559,
+    "sample_catalogs": [
+      "Z190034",
+      "Z136370",
+      "Z137018",
+      "Z240190",
+      "Z137027"
+    ],
+    "slug": "hendon-music",
+    "url": "https://yuepuji.com/publishers/pub_1qq5/hendon-music"
+  }
+]

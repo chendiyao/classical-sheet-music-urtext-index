@@ -1,0 +1,362 @@
+[
+  {
+    "id": "art_4kd4c6",
+    "name": "Johann Sebastian Bach",
+    "name_zh": "巴赫",
+    "score_count": 2033,
+    "slug": "johann-sebastian-bach",
+    "url": "https://yuepuji.com/composers/art_4kd4c6/johann-sebastian-bach"
+  },
+  {
+    "id": "art_phlfi2",
+    "name": "Wolfgang Amadeus Mozart",
+    "name_zh": "莫扎特",
+    "score_count": 1460,
+    "slug": "wolfgang-amadeus-mozart",
+    "url": "https://yuepuji.com/composers/art_phlfi2/wolfgang-amadeus-mozart"
+  },
+  {
+    "id": "art_2fk4p1",
+    "name": "Antonio Vivaldi",
+    "name_zh": "维瓦尔第",
+    "score_count": 1089,
+    "slug": "antonio-vivaldi",
+    "url": "https://yuepuji.com/composers/art_2fk4p1/antonio-vivaldi"
+  },
+  {
+    "id": "art_2cofbu",
+    "name": "George Frideric Handel",
+    "name_zh": "亨德尔",
+    "score_count": 860,
+    "slug": "george-frideric-handel",
+    "url": "https://yuepuji.com/composers/art_2cofbu/george-frideric-handel"
+  },
+  {
+    "id": "art_1rhvoj",
+    "name": "Ludwig van Beethoven",
+    "name_zh": "贝多芬",
+    "score_count": 833,
+    "slug": "ludwig-van-beethoven",
+    "url": "https://yuepuji.com/composers/art_1rhvoj/ludwig-van-beethoven"
+  },
+  {
+    "id": "art_1p0buk",
+    "name": "Franz Schubert",
+    "name_zh": "舒伯特",
+    "score_count": 730,
+    "slug": "franz-schubert",
+    "url": "https://yuepuji.com/composers/art_1p0buk/franz-schubert"
+  },
+  {
+    "id": "art_2j70xf",
+    "name": "Pam Wedgwood",
+    "name_zh": "",
+    "score_count": 660,
+    "slug": "pam-wedgwood",
+    "url": "https://yuepuji.com/composers/art_2j70xf/pam-wedgwood"
+  },
+  {
+    "id": "art_2n8b0n",
+    "name": "Joseph Haydn",
+    "name_zh": "海顿",
+    "score_count": 606,
+    "slug": "joseph-haydn",
+    "url": "https://yuepuji.com/composers/art_2n8b0n/joseph-haydn"
+  },
+  {
+    "id": "art_fbmke1",
+    "name": "Robert Schumann",
+    "name_zh": "舒曼",
+    "score_count": 594,
+    "slug": "robert-schumann",
+    "url": "https://yuepuji.com/composers/art_fbmke1/robert-schumann"
+  },
+  {
+    "id": "art_1vim02",
+    "name": "Johannes Brahms",
+    "name_zh": "勃拉姆斯",
+    "score_count": 592,
+    "slug": "johannes-brahms",
+    "url": "https://yuepuji.com/composers/art_1vim02/johannes-brahms"
+  },
+  {
+    "id": "art_27y9dv",
+    "name": "Felix Mendelssohn Bartholdy",
+    "name_zh": "门德尔松",
+    "score_count": 578,
+    "slug": "felix-mendelssohn-bartholdy",
+    "url": "https://yuepuji.com/composers/art_27y9dv/felix-mendelssohn-bartholdy"
+  },
+  {
+    "id": "art_wahdvp",
+    "name": "John Rutter",
+    "name_zh": "约翰·拉特",
+    "score_count": 561,
+    "slug": "john-rutter",
+    "url": "https://yuepuji.com/composers/art_wahdvp/john-rutter"
+  },
+  {
+    "id": "art_1ejpjx",
+    "name": "Pyotr Ilyich Tchaikovsky",
+    "name_zh": "柴可夫斯基",
+    "score_count": 546,
+    "slug": "pyotr-ilyich-tchaikovsky",
+    "url": "https://yuepuji.com/composers/art_1ejpjx/pyotr-ilyich-tchaikovsky"
+  },
+  {
+    "id": "art_1eqzxi",
+    "name": "Claude Debussy",
+    "name_zh": "德彪西",
+    "score_count": 528,
+    "slug": "claude-debussy",
+    "url": "https://yuepuji.com/composers/art_1eqzxi/claude-debussy"
+  },
+  {
+    "id": "art_2p21a1",
+    "name": "Frédéric Chopin",
+    "name_zh": "肖邦",
+    "score_count": 475,
+    "slug": "frederic-chopin",
+    "url": "https://yuepuji.com/composers/art_2p21a1/frederic-chopin"
+  },
+  {
+    "id": "art_2jbqeh",
+    "name": "Camille Saint-Saëns",
+    "name_zh": "圣-桑",
+    "score_count": 465,
+    "slug": "camille-saint-saens",
+    "url": "https://yuepuji.com/composers/art_2jbqeh/camille-saint-saens"
+  },
+  {
+    "id": "art_dkx14n",
+    "name": "Mark Wilson",
+    "name_zh": "",
+    "score_count": 449,
+    "slug": "mark-wilson",
+    "url": "https://yuepuji.com/composers/art_dkx14n/mark-wilson"
+  },
+  {
+    "id": "art_1biam5",
+    "name": "Benjamin Britten",
+    "name_zh": "布里顿",
+    "score_count": 449,
+    "slug": "benjamin-britten",
+    "url": "https://yuepuji.com/composers/art_1biam5/benjamin-britten"
+  },
+  {
+    "id": "art_2hgssk",
+    "name": "Mary Cohen",
+    "name_zh": "",
+    "score_count": 442,
+    "slug": "mary-cohen",
+    "url": "https://yuepuji.com/composers/art_2hgssk/mary-cohen"
+  },
+  {
+    "id": "art_kzryes",
+    "name": "Bob Chilcott",
+    "name_zh": "",
+    "score_count": 415,
+    "slug": "bob-chilcott",
+    "url": "https://yuepuji.com/composers/art_kzryes/bob-chilcott"
+  },
+  {
+    "id": "art_2fc1sj",
+    "name": "Giuseppe Verdi",
+    "name_zh": "威尔第",
+    "score_count": 400,
+    "slug": "giuseppe-verdi",
+    "url": "https://yuepuji.com/composers/art_2fc1sj/giuseppe-verdi"
+  },
+  {
+    "id": "art_92bpxy",
+    "name": "Edward Elgar",
+    "name_zh": "埃尔加",
+    "score_count": 386,
+    "slug": "edward-elgar",
+    "url": "https://yuepuji.com/composers/art_92bpxy/edward-elgar"
+  },
+  {
+    "id": "art_24lj8v",
+    "name": "Henry Purcell",
+    "name_zh": "普赛尔",
+    "score_count": 360,
+    "slug": "henry-purcell",
+    "url": "https://yuepuji.com/composers/art_24lj8v/henry-purcell"
+  },
+  {
+    "id": "art_ae6m8y",
+    "name": "Ralph Vaughan Williams",
+    "name_zh": "沃恩·威廉斯",
+    "score_count": 338,
+    "slug": "ralph-vaughan-williams",
+    "url": "https://yuepuji.com/composers/art_ae6m8y/ralph-vaughan-williams"
+  },
+  {
+    "id": "art_p8luyp",
+    "name": "Carl Davis",
+    "name_zh": "卡尔·戴维斯",
+    "score_count": 336,
+    "slug": "carl-davis",
+    "url": "https://yuepuji.com/composers/art_p8luyp/carl-davis"
+  },
+  {
+    "id": "art_21x1ql",
+    "name": "Gabriel Fauré",
+    "name_zh": "福雷",
+    "score_count": 335,
+    "slug": "gabriel-faure",
+    "url": "https://yuepuji.com/composers/art_21x1ql/gabriel-faure"
+  },
+  {
+    "id": "art_li4t2l",
+    "name": "Paul Hindemith",
+    "name_zh": "欣德米特",
+    "score_count": 330,
+    "slug": "paul-hindemith",
+    "url": "https://yuepuji.com/composers/art_li4t2l/paul-hindemith"
+  },
+  {
+    "id": "art_1ptx9e",
+    "name": "Isaac Albéniz",
+    "name_zh": "阿尔贝尼斯",
+    "score_count": 304,
+    "slug": "isaac-albeniz",
+    "url": "https://yuepuji.com/composers/art_1ptx9e/isaac-albeniz"
+  },
+  {
+    "id": "art_znwrx1",
+    "name": "Franz Liszt",
+    "name_zh": "李斯特",
+    "score_count": 292,
+    "slug": "franz-liszt",
+    "url": "https://yuepuji.com/composers/art_znwrx1/franz-liszt"
+  },
+  {
+    "id": "art_1efsi7",
+    "name": "Peter Maxwell Davies",
+    "name_zh": "马克斯韦尔·戴维斯",
+    "score_count": 291,
+    "slug": "peter-maxwell-davies",
+    "url": "https://yuepuji.com/composers/art_1efsi7/peter-maxwell-davies"
+  },
+  {
+    "id": "art_2rnshi",
+    "name": "Maurice Ravel",
+    "name_zh": "拉威尔",
+    "score_count": 288,
+    "slug": "maurice-ravel",
+    "url": "https://yuepuji.com/composers/art_2rnshi/maurice-ravel"
+  },
+  {
+    "id": "art_ak8sq8",
+    "name": "Peter Sculthorpe",
+    "name_zh": "彼得·斯克尔索普",
+    "score_count": 287,
+    "slug": "peter-sculthorpe",
+    "url": "https://yuepuji.com/composers/art_ak8sq8/peter-sculthorpe"
+  },
+  {
+    "id": "art_enjp8f",
+    "name": "Jean Sibelius",
+    "name_zh": "西贝柳斯",
+    "score_count": 285,
+    "slug": "jean-sibelius",
+    "url": "https://yuepuji.com/composers/art_enjp8f/jean-sibelius"
+  },
+  {
+    "id": "art_wtncdh",
+    "name": "Lin Marsh",
+    "name_zh": "",
+    "score_count": 281,
+    "slug": "lin-marsh",
+    "url": "https://yuepuji.com/composers/art_wtncdh/lin-marsh"
+  },
+  {
+    "id": "art_bq6e0b",
+    "name": "James MacMillan",
+    "name_zh": "詹姆斯·麦克米伦",
+    "score_count": 278,
+    "slug": "james-macmillan",
+    "url": "https://yuepuji.com/composers/art_bq6e0b/james-macmillan"
+  },
+  {
+    "id": "art_2gwe53",
+    "name": "Howard Goodall",
+    "name_zh": "",
+    "score_count": 274,
+    "slug": "howard-goodall",
+    "url": "https://yuepuji.com/composers/art_2gwe53/howard-goodall"
+  },
+  {
+    "id": "art_jz13vi",
+    "name": "John Tavener",
+    "name_zh": "约翰·塔文纳",
+    "score_count": 273,
+    "slug": "john-tavener",
+    "url": "https://yuepuji.com/composers/art_jz13vi/john-tavener"
+  },
+  {
+    "id": "art_yd0pqr",
+    "name": "Igor Stravinsky",
+    "name_zh": "斯特拉文斯基",
+    "score_count": 264,
+    "slug": "igor-stravinsky",
+    "url": "https://yuepuji.com/composers/art_yd0pqr/igor-stravinsky"
+  },
+  {
+    "id": "art_2kr8hf",
+    "name": "Ernesto Nazareth",
+    "name_zh": "埃内斯托·纳扎雷",
+    "score_count": 263,
+    "slug": "ernesto-nazareth",
+    "url": "https://yuepuji.com/composers/art_2kr8hf/ernesto-nazareth"
+  },
+  {
+    "id": "art_zvycjn",
+    "name": "Georges Bizet",
+    "name_zh": "比才",
+    "score_count": 258,
+    "slug": "georges-bizet",
+    "url": "https://yuepuji.com/composers/art_zvycjn/georges-bizet"
+  },
+  {
+    "id": "art_8fsgnr",
+    "name": "Unknown",
+    "name_zh": "佚名",
+    "score_count": 255,
+    "slug": "unknown",
+    "url": "https://yuepuji.com/composers/art_8fsgnr/unknown"
+  },
+  {
+    "id": "art_2ja1wi",
+    "name": "Antonín Dvořák",
+    "name_zh": "德沃夏克",
+    "score_count": 254,
+    "slug": "antonin-dvorak",
+    "url": "https://yuepuji.com/composers/art_2ja1wi/antonin-dvorak"
+  },
+  {
+    "id": "art_1kk294",
+    "name": "Edvard Grieg",
+    "name_zh": "格里格",
+    "score_count": 253,
+    "slug": "edvard-grieg",
+    "url": "https://yuepuji.com/composers/art_1kk294/edvard-grieg"
+  },
+  {
+    "id": "art_2cx8sc",
+    "name": "Karl Jenkins",
+    "name_zh": "卡尔·詹金斯",
+    "score_count": 247,
+    "slug": "karl-jenkins",
+    "url": "https://yuepuji.com/composers/art_2cx8sc/karl-jenkins"
+  },
+  {
+    "id": "art_yepoyc",
+    "name": "Charles Gounod",
+    "name_zh": "古诺",
+    "score_count": 246,
+    "slug": "charles-gounod",
+    "url": "https://yuepuji.com/composers/art_yepoyc/charles-gounod"
+  }
+]
