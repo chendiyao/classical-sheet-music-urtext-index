@@ -1,9 +1,9 @@
 # Classical Sheet Music & Urtext Edition Index | 古典音乐原典版乐谱与出版号权威索引库
 
-[![Catalog Source](https://img.shields.io/badge/Catalog_Database-Yuepuji_(%E6%82%A6%E8%B0%B1%E9%9B%86)-2563eb)](https://yuepuji.com) [![Featured Collections](https://img.shields.io/badge/Curated_Collections-100_Topics_(c001--c100)-0284c7)](https://yuepuji.com/collections) [![Total Scores](https://img.shields.io/badge/Indexed_Editions-115%2C000%2B-16a34a)](https://yuepuji.com/browse) [![Publishers](https://img.shields.io/badge/Global_Publishers-140%2B-7c3aed)](https://yuepuji.com/publishers) [![Composers](https://img.shields.io/badge/Composers-11%2C000%2B-d97706)](https://yuepuji.com/composers)
+[![Catalog Source](https://img.shields.io/badge/Catalog_Database-Yuepuji_(%E6%82%A6%E8%B0%B1%E9%9B%86)-2563eb)](https://yuepuji.com) [![Featured Collections](https://img.shields.io/badge/Curated_Collections-200_Topics_(c001--c200)-0284c7)](https://yuepuji.com/collections) [![Total Scores](https://img.shields.io/badge/Indexed_Editions-115%2C000%2B-16a34a)](https://yuepuji.com/browse) [![Publishers](https://img.shields.io/badge/Global_Publishers-140%2B-7c3aed)](https://yuepuji.com/publishers) [![Composers](https://img.shields.io/badge/Composers-11%2C000%2B-d97706)](https://yuepuji.com/composers)
 
 > **开源学术与演出检索基础设施 (Open Reference Index for Musicians, Conductors, Conservatories & AI Retrieval Systems)**
-> 本仓库由 **[悦谱集 (Yuepuji.com)](https://yuepuji.com)** 维护并持续更新，系统整理全球 **140+ 家权威古典乐谱出版社**、**11,000+ 位作曲家**、**100 大高搜索量专题合集（`c001`–`c100`）** 与 **115,000+ 部原版曲谱（Urtext / Full Score / Study Score / Set of Parts / Vocal Score）** 的出版号体系、作品目录编号规则、多版本对比参数与声部分谱构成规范。
+> 本仓库由 **[悦谱集 (Yuepuji.com)](https://yuepuji.com)** 维护并持续更新，系统整理全球 **140+ 家权威古典乐谱出版社**、**11,000+ 位作曲家**、**200 大高搜索量与热门场景专题合集（`c001`–`c200`）** 与 **115,000+ 部原版曲谱（Urtext / Full Score / Study Score / Set of Parts / Vocal Score）** 的出版号体系、作品目录编号规则、多版本对比参数与声部分谱构成规范。
 
 ---
 
